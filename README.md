@@ -5,26 +5,26 @@
 
 1️⃣ G̟i̟a̟o̟ d̟i̟ện̟ t̟r̟ên̟ ứn̟g̟ d̟ụn̟g̟
 
-<img width="206" height="500" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/9c49b389-61e8-4955-baa4-ee5a30f8a6ff">
-<img width="206" height="500" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f1f57881-2fb9-4fd2-89c2-620a6119e3fd">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/9c49b389-61e8-4955-baa4-ee5a30f8a6ff">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f1f57881-2fb9-4fd2-89c2-620a6119e3fd">
 
 Giao diện đăng nhập và đăng kí
 
 
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/7e0d360d-cd47-4693-99ee-ab469fb2a71c">
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/acd0acbb-bd12-4d4b-87e0-da8cd77f1a92">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/7e0d360d-cd47-4693-99ee-ab469fb2a71c">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/acd0acbb-bd12-4d4b-87e0-da8cd77f1a92">
 
 Giao diện màn hình chat và inbox
 
 
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/6c35fdb6-f32f-4b5d-b22a-fecd9efd5cd7">
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/7f93ca3c-2230-474e-9db0-a39e0deea9fc">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/6c35fdb6-f32f-4b5d-b22a-fecd9efd5cd7">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/7f93ca3c-2230-474e-9db0-a39e0deea9fc">
 
 Giao diện màn hình bài viết và bình luận
 
 
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f97d78bf-bd92-4118-aed3-2fc26f2bcd1c">
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/b6104756-4882-495d-897f-62dc25feb97a">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f97d78bf-bd92-4118-aed3-2fc26f2bcd1c">
+<img width="206" height="450" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/b6104756-4882-495d-897f-62dc25feb97a">
 
 Giao diện màn hình Profile và tìm kiếm tài khoản
 
