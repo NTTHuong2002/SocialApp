@@ -1,3 +1,4 @@
+<img width="2000" height="1000" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/fcf1d801-e549-44b9-80df-05b4ecc65605">
 ![image](https://github.com/NTTHuong2002/SocialApp/assets/130816726/fcf1d801-e549-44b9-80df-05b4ecc65605)
 ![image](https://github.com/NTTHuong2002/SocialApp/assets/130816726/dd93d35c-27fc-4a8c-b840-ada2286396ac)
 
