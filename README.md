@@ -1,7 +1,7 @@
-# WEBSITE VÀ ỨNG DỤNG ĐA NỀN TẢNG SOCIAL NETWORK
+# W̺E̺B̺S̺I̺T̺E̺ V̺À ỨN̺G̺ D̺ỤN̺G̺ ĐA̺ N̺ỀN̺ T̺ẢN̺G̺ S̺O̺C̺I̺A̺L̺ N̺E̺T̺W̺O̺R̺K̺
 
 
-Giao diện trên ứng dụng
+1️⃣ G̟i̟a̟o̟ d̟i̟ện̟ t̟r̟ên̟ ứn̟g̟ d̟ụn̟g̟
 
 <img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/9c49b389-61e8-4955-baa4-ee5a30f8a6ff">
 <img width="205" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f1f57881-2fb9-4fd2-89c2-620a6119e3fd">
@@ -30,7 +30,7 @@ Giao diện màn hình Profile và tìm kiếm tài khoản
 
 
 
-Giao diện phát triển thêm Website
+2️⃣ G̟i̟a̟o̟ d̟i̟ện̟ p̟h̟át̟ t̟r̟i̟ển̟ t̟h̟êm̟ W̟e̟b̟s̟i̟t̟e̟
 
 
 <img width="452" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/0fe0d9d3-0290-41e6-8de4-4e7c41ffae51">
