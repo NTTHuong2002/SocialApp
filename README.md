@@ -5,8 +5,8 @@
 
 1️⃣ G̟i̟a̟o̟ d̟i̟ện̟ t̟r̟ên̟ ứn̟g̟ d̟ụn̟g̟
 
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/9c49b389-61e8-4955-baa4-ee5a30f8a6ff">
-<img width="206" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f1f57881-2fb9-4fd2-89c2-620a6119e3fd">
+<img width="206" height="500" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/9c49b389-61e8-4955-baa4-ee5a30f8a6ff">
+<img width="206" height="500" alt="image" src="https://github.com/NTTHuong2002/SocialApp/assets/130816726/f1f57881-2fb9-4fd2-89c2-620a6119e3fd">
 
 Giao diện đăng nhập và đăng kí
 
